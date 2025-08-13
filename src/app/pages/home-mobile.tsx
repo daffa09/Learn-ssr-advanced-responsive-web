@@ -16,8 +16,8 @@ export default function HomeMobile({ products }: { products: Product[] }) {
               className="h-20 w-20 object-contain rounded-lg bg-gray-50 p-1"
             />
             <div className="flex flex-col flex-1">
-              <h2 className="font-semibold text-gray-700 line-clamp-2">{p.title}</h2>
-              <p className="text-green-600 font-bold mt-1">Rp {p.price.toLocaleString()}</p>
+              <h2 className="font-semibold text-gray-700 line-clamp-2">{ p.title }</h2>
+              <p className="text-green-600 font-bold mt-1">$ { p.price }</p>
             </div>
           </div>
         ))}

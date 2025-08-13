@@ -17,8 +17,8 @@ export default function HomeDesktop({ products }: { products: Product[] }) {
                 className="h-48 w-auto object-contain transform hover:scale-105 transition-transform"
               />
             </div>
-            <h2 className="mt-4 font-semibold text-gray-700 line-clamp-2">{p.title}</h2>
-            <p className="mt-auto text-green-600 font-bold text-lg">Rp {p.price.toLocaleString()}</p>
+            <h2 className="mt-4 font-semibold text-gray-700 line-clamp-2">{ p.title }</h2>
+            <p className="mt-auto text-green-600 font-bold text-lg">$ { p.price }</p>
           </div>
         ))}
       </div>
