@@ -60,6 +60,7 @@ yarn dev
 4. **Open http://localhost:3000 in your browser**
 
 ## Project Structure
+```bash
 fanthom-store/
 ├── src/
 │   ├── app/         # Next.js app directory
@@ -68,6 +69,7 @@ fanthom-store/
 │   └── types/       # TypeScript types
 ├── public/          # Static assets
 └── ...config files
+```
 
 ## Testing
 ### Pengujian Desktop
