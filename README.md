@@ -1,3 +1,5 @@
+<!-- portfolio -->
+
 # 🛍️ Fanthom Store - Responsive Web App
 
 **Fanthom Store** adalah aplikasi e-commerce responsif berbasis **Next.js** yang secara otomatis menyesuaikan antarmuka untuk perangkat **desktop** dan **mobile**.  
