@@ -1,4 +1,8 @@
 <!-- portfolio -->
+<!-- slug: fanthom-store-responsive-style -->
+<!-- title: Fanthom Store Responsive Style -->
+<!-- description: E-commerce responsive dengan deteksi user-agent -->
+<!-- image: https://github.com/user-attachments/assets/e141316e-2c10-40cc-8d89-468e925522b6 -->
 <!-- tags: React, NextJs, Javascript -->
 
 # 🛍️ Fanthom Store - Responsive Web App
@@ -22,6 +26,8 @@ Proyek ini mengimplementasikan **SSR (Server-Side Rendering)** dengan deteksi pe
 
 ## 🖥️ Tampilan Versi Desktop
 
+<img width="1863" height="784" alt="image" src="https://github.com/user-attachments/assets/e141316e-2c10-40cc-8d89-468e925522b6" />
+
 - **Layout full-width** yang memanfaatkan seluruh lebar layar
 - **Grid multi kolom** untuk menampilkan banyak produk
 - Gambar besar & jelas
@@ -32,6 +38,8 @@ Proyek ini mengimplementasikan **SSR (Server-Side Rendering)** dengan deteksi pe
 ---
 
 ## 📱 Tampilan Versi Mobile
+
+<img width="378" height="541" alt="image" src="https://github.com/user-attachments/assets/251801cb-d365-424f-9bb7-197e4c40f225" />
 
 - **Layout ringkas** untuk layar kecil
 - **Single column** untuk fokus konten
